@@ -1,0 +1,14 @@
+{ "columns":4,
+ "image":"sewer_blocks.png",
+ "imageheight":160,
+ "imagewidth":128,
+ "margin":0,
+ "name":"sewer_blocks",
+ "spacing":0,
+ "tilecount":20,
+ "tiledversion":"1.10.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}

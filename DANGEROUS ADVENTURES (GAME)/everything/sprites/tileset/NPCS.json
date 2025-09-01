@@ -1,0 +1,14 @@
+{ "columns":4,
+ "image":"..\/enemies.png",
+ "imageheight":160,
+ "imagewidth":128,
+ "margin":0,
+ "name":"NPCS",
+ "spacing":0,
+ "tilecount":20,
+ "tiledversion":"1.10.0",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}
